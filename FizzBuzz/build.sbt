@@ -13,6 +13,5 @@ scalaVersion := "2.10.3"
 org.scalastyle.sbt.ScalastylePlugin.Settings
 
 libraryDependencies ++= Seq(
-    "org.scalatest" %% "scalatest" % "1.9.2" % "test",
-    "org.scalastyle" % "scalastyle" % "0.3.2"
+    "org.scalatest" %% "scalatest" % "1.9.2" % "test"
 )
