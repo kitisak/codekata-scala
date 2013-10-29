@@ -7,8 +7,9 @@ The Roman numeral system is a cousin of Etruscan numerals. Use of Roman numerals
 
 
 Roman Numerals, as used today, are based on seven symbols:
+
 | Symbol	| Value |
-| --------- | ----- |
+| --- | --- |
 | I	        | 1     |
 | V	        | 5     |
 | X	        | 10    |
