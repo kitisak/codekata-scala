@@ -33,7 +33,7 @@ class FizzBuzzSpec extends FunSpec {
       assert ( expected === actual)
     }
 
-    it("should not correct for number is 2"){
+    it("should not correct for number is 3"){
       val expected = List("1","2")
       val actual = findFizzBuzz(3)
 
