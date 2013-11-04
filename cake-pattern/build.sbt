@@ -1,6 +1,6 @@
 organization :="org.scalatr"
 
-name := "Cake-Patterns"
+name := "cake-pattern"
 
 version := "1.0-SNAPSHOT"
 
