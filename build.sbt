@@ -1,4 +1,3 @@
-//import com.github.theon.coveralls.CoverallsPlugin.CoverallsKeys._
 scalaVersion := "2.11.0"
 
 org.scalastyle.sbt.ScalastylePlugin.Settings
