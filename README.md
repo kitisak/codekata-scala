@@ -6,5 +6,3 @@ CodeKata for Scala
 More information click http://scala-tr.org
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rayyildiz/codekata-scala/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
