@@ -6,5 +6,5 @@ package org.scalatr
  * Date: 4.11.2013 - Time: 22:37
  */
 object PrimeNumber {
-  def isPrime(n:Int): Boolean = (2 until n) forall (d => n % d !=0)
+  def isPrime(n: Int): Boolean = (2 until n) forall (d => n % d != 0)
 }

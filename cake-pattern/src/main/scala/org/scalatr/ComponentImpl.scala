@@ -5,27 +5,21 @@ package org.scalatr
  * User: ramazan
  * Date: 1.11.2013 - Time: 18:07
  */
-
 trait Users {
-  this:UserRepositoryComponent =>
+  this: UserRepositoryComponent =>
 
-
-  def getUser(id:Long) : User = {
+  def getUser(id: Long): User =
     userRepository.get(id)
-  }
 
-  def saveUser(u:User):Long = {
+  def saveUser(u: User): Long =
     userRepository.save(u)
-  }
 }
 
-
-
 trait UserInfos extends Users {
-  this:UserRepositoryComponent =>
+  this: UserRepositoryComponent =>
 
-  def userFirstname(id:Long):String = getUser(id).firstName
+  def userFirstname(id: Long): String = getUser(id).firstName
 
-  def userLastName(id:Long):String = getUser(id).lastName
+  def userLastName(id: Long): String = getUser(id).lastName
 
 }
