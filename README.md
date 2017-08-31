@@ -2,6 +2,7 @@ CodeKata for Scala
 ===
 
 [![Build Status](https://travis-ci.org/rayyildiz/codekata-scala.png?branch=master)](https://travis-ci.org/rayyildiz/codekata-scala)
+[![Build status](https://ci.appveyor.com/api/projects/status/baof0y448uo9qldq?svg=true)](https://ci.appveyor.com/project/rayyildiz/codekata-scala)
 
 
 Fizz Buzz
