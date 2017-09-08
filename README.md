@@ -8,20 +8,20 @@ CodeKata for Scala
 Fizz Buzz
 ---
 
-[FizzBuzz](FizzBuzz/README.md) is a simple usage of [Pattern Matching](https://en.wikipedia.org/wiki/Pattern_matching) in [Scala](https://www.scala-lang.org/).
+[FizzBuzz](fizz-buzz/README.md) is a simple usage of [Pattern Matching](https://en.wikipedia.org/wiki/Pattern_matching) in [Scala](https://www.scala-lang.org/).
 
 
 Prime Number
 ---
 
-[Prime Number](PrimeNumber/README.md) is a simple usage of
+[Prime Number](prime-number/README.md) is a simple usage of
 [forall](http://www.scala-lang.org/api/current/scala/collection/immutable/List.html#forall(p:A=>Boolean):Boolean)
 
 
 Roman Numerals
 ---
 
-[Roman Numerals](RomanNumerals/README.md) is numeric sistem used in ancient Rome. This is a simple converter for [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals)
+[Roman Numerals](roman-numerals/README.md) is numeric sistem used in ancient Rome. This is a simple converter for [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals)
 
 
 Cake Pattern
