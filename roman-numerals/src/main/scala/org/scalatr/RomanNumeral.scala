@@ -1,12 +1,12 @@
 package org.scalatr
 
-import scala.annotation.tailrec
-
 /**
- * Project: RomanNumerals
- * User: ramazan
- * Date: 29.10.2013 - Time: 20:56
- */
+  * Project: RomanNumerals
+  *
+  * Created on 29.10.2013 - Time: 20:56
+  *
+  * @author rayyildiz
+  */
 object RomanNumeral {
   val Numbers = Seq(
     1 -> "I",

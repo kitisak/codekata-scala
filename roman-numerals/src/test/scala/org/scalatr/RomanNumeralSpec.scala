@@ -4,8 +4,10 @@ import org.scalatest.FunSpec
 
 /**
  * Project: RomanNumerals
- * User: ramazan
- * Date: 31.10.2013 - Time: 08:12
+  *
+ * Created on 31.10.2013 - Time: 08:12
+  *
+  * @author rayyildiz
  */
 class RomanNumeralSpec extends FunSpec {
   describe("Roman Numeral") {

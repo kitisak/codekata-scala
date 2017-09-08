@@ -1,9 +1,11 @@
-cmdpackage org.scalatr
+package org.scalatr
 
 /**
  * Project: cake-pattern
- * User: ramazan
- * Date: 1.11.2013 - Time: 18:07
+  *
+ * Created on 1.11.2013 - Time: 18:07
+  *
+  * @author rayyildiz
  */
 trait Users {
   this: UserRepositoryComponent =>

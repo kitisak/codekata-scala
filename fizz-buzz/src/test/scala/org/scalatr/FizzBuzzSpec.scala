@@ -3,10 +3,12 @@ package org.scalatr
 import org.scalatest.FunSpec
 
 /**
- * Project: FizzBuzz
- * User: ramazan
- * Date: 29.10.2013 - Time: 16:44
- */
+  * Project: FizzBuzz
+  *
+  * Created on 29.10.2013 - Time: 16:44
+  *
+  * @author rayyildiz
+  */
 class FizzBuzzSpec extends FunSpec {
   describe("A FizzBuzz") {
 

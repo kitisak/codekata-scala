@@ -4,8 +4,10 @@ import org.scalatest.FunSpec
 
 /**
  * Project: PrimeNumber
- * User: ramazan
- * Date: 4.11.2013 - Time: 22:38
+  *
+ * Created on 4.11.2013 - Time: 22:38
+  *
+  * @author rayyildiz
  */
 class PrimeNumberSpec extends FunSpec {
 

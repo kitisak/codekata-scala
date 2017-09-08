@@ -2,8 +2,10 @@ package org.scalatr
 
 /**
  * Project: FizzBuzz
- * User: ramazan
- * Date: 29.10.2013 - Time: 16:35
+  *
+ * Created on 29.10.2013 - Time: 16:35
+  *
+  * @author rayyildiz
  */
 object FizzBuzz {
 
