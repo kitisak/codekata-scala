@@ -14,6 +14,7 @@ build_script:
     - sbt ++2.11.0 clean compile test
     - sbt ++2.11.8 clean compile test
     - sbt ++2.11.11 clean compile test
+    - sbt ++2.12.3 clean compile test
 
 cache:
     - C:\sbt\

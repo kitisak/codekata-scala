@@ -1,4 +1,4 @@
-package org.scalatr
+cmdpackage org.scalatr
 
 /**
  * Project: cake-pattern
