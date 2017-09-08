@@ -1,12 +1,12 @@
 package org.scalatr
 
 /**
- * Project: FizzBuzz
+  * Project: FizzBuzz
   *
- * Created on 29.10.2013 - Time: 16:35
+  * Created on 29.10.2013 - Time: 16:35
   *
   * @author rayyildiz
- */
+  */
 object FizzBuzz {
 
   def matchTest(i: Int): String = (i % 3, i % 5) match {

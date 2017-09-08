@@ -5,7 +5,7 @@ package org.scalatr
   *
   * Created on 08/09/2017 14:26
   *
-  * @author rayyildiz  
+  * @author rayyildiz
   */
 object HelloCodeKata extends App {
 
